@@ -16,7 +16,7 @@
     "fullpage.js": "^3.0.7",
     "jquery": "^3.5.0",
     "photo-sphere-viewer": "^3.5.1",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "vue": "^2.5.2",
     "vue-fullpage": "^2.0.5",
     "vue-router": "^3.1.1",
